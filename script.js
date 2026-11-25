@@ -23,7 +23,7 @@ const EVENT_DETAILS = {
 
     address: "9880 Ravenscroft Ln, Concord, NC 28027",
 
-    host: "Ravindra, Sunanda, & Kandula Family",
+    host: "Ravindra Kandula, Sunanda, & Family",
 
     phone: "404-993-4431",
 

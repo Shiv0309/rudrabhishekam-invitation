@@ -19,13 +19,13 @@ const EVENT_DETAILS = {
 
     prasadamTime: "8:30 PM",
 
-    venue: "The Palpanoori Residence",
+    venue: "The Kandula Residence",
 
-    address: "645 Kitfox Dr NW, Concord, NC 28027",
+    address: "9880 Ravenscroft Ln, Concord, NC 28027",
 
-    host: "Ravi Kiran, Maheshwari Palpanoori, & Family",
+    host: "Ravindra, Sunanda, & Kandula Family",
 
-    phone: "704-712-6392",
+    phone: "404-993-4431",
 
     rsvpDeadline: "Tuesday, November 24, 2026"
 
